@@ -30,5 +30,7 @@
 			echo "Cookie value : ".$_COOKIE[$cookie_name];
 		}
 	?>
+
+	
 </body>
 </html>
